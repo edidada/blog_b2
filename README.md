@@ -1,1 +1,1 @@
-"# blog_b2" 
+# blog_b2 
